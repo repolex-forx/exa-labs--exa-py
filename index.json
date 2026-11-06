@@ -1,0 +1,11 @@
+{
+  "org": "exa-labs",
+  "repo": "exa-py",
+  "versions": [
+    {
+      "commit": "8ca7b446a18f3c6db52327c5544e868ca628d599",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:41:25.617915+00:00"
+    }
+  ]
+}
