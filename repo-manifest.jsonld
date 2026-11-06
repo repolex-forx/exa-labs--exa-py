@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/exa-labs/exa-py/commit/8ca7b446a18f3c6db52327c5544e868ca628d599",
       "git:hexsha": "8ca7b446a18f3c6db52327c5544e868ca628d599",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/exa-labs/exa-py/commit/1d68a75c3bdfe2eb99e50f9fcdb989e363896eb5",
