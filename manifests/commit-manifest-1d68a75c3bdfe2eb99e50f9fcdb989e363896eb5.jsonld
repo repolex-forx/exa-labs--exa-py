@@ -42,9 +42,15 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 154238
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/1d68a75c3bdfe2eb99e50f9fcdb989e363896eb5/chunk-001.nq.gz",
+      "repolex:graphFileSize": 7777642
     }
   ],
-  "repolex:parseStatus": "metadata_complete",
+  "repolex:parseStatus": "ast_complete",
   "repolex:parsedAt": "2026-11-21T22:42:24.947387+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "kronos/0.1.8709-hotfix"
