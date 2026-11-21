@@ -3,6 +3,11 @@
   "repo": "exa-py",
   "versions": [
     {
+      "commit": "1d68a75c3bdfe2eb99e50f9fcdb989e363896eb5",
+      "tag": "kronos/0.1.8709-hotfix",
+      "parsed_at": "2026-11-21T22:57:37.536277+00:00"
+    },
+    {
       "commit": "8ca7b446a18f3c6db52327c5544e868ca628d599",
       "tag": "",
       "parsed_at": "2026-11-06T02:41:25.617915+00:00"
